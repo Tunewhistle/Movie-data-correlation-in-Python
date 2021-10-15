@@ -3,6 +3,5 @@ This project aims to **find correlation between movies' gross revenue and other 
 
 It was performed in Anaconda (Python IDE) with Jupyter Notebook.
 
-The raw dataset was downloaded from https://www.kaggle.com/danielgrijalvas/movies
-
+The raw dataset was downloaded from https://www.kaggle.com/danielgrijalvas/movies.
 
